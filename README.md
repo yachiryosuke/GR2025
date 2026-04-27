@@ -11,12 +11,12 @@
 4. PCAを用いた1段階目の次元圧縮
   - `dimensionality-reduction-pca-cog-kfold.ipynb`
 5. t-SNEを用いた2段階目の次元圧縮
-  - `dimensionality-reduction-pcaopentsne-cog-kfold.ipynb`
+  - `dimensionality-reduction-pcaopentsne2-cog-kfold.ipynb`
 6. 2次元ベクトルのスケーリング
   - `scale-the-embedding-10-170-kfold.ipynb`
 7. グラフ表示画像の作成
   - `draw_img_yachi.py`
-8. 層化5分割交差検証
+8. CNNを用いた層化5分割交差検証
   - `cnn_prott5.ipynb`
 
 ## フォルダ構造
