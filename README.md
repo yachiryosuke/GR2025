@@ -18,3 +18,13 @@
   - `draw_img_yachi.py`
 8. 層化5分割交差検証
   - `cnn_prott5.ipynb`
+
+## フォルダ構造
+埋め込みベクトルの取得前に以下のようなフォルダ構造を構築する。data,graphsはなくても動作するが保険で作成しておく。
+
+- 任意のフォルダ
+  - data
+  - gds_dataset_exclusion
+    - gpcr-dataset-exclusion-duplicate.fasta
+  - graphs 
+  - 1~8の各プログラムファイル
